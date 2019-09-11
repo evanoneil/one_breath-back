@@ -66,6 +66,42 @@ export default {
       name: 'body',
       type: 'bodyPortableText',
       title: 'Body'
+    },
+    {
+      name: 'Action 1 Title',
+      type: 'string',
+      title: 'Action_1_Title',
+      description: 'This is the title of the first action to take'
+    },
+    {
+      name: 'Action 1 URL',
+      type: 'string',
+      title: 'Action_1_URL',
+      description: 'This is the URL of the first action to take'
+    },
+    {
+      name: 'Action 2 Title',
+      type: 'string',
+      title: 'Action_2_Title',
+      description: 'This is the title of the first action to take'
+    },
+    {
+      name: 'Action 2 URL',
+      type: 'string',
+      title: 'Action_2_URL',
+      description: 'This is the URL of the first action to take'
+    },
+    {
+      name: 'Action 1 Title',
+      type: 'string',
+      title: 'Action_1_Title',
+      description: 'This is the title of the first action to take'
+    },
+    {
+      name: 'Action 3 URL',
+      type: 'string',
+      title: 'Action_3_URL',
+      description: 'This is the URL of the first action to take'
     }
   ],
   orderings: [
