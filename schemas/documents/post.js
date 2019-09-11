@@ -68,39 +68,39 @@ export default {
       title: 'Body'
     },
     {
-      name: 'Action 1 Title',
+      name: 'Action1Title',
       type: 'string',
-      title: 'Action_1_Title',
+      title: 'Action-1-Title',
       description: 'This is the title of the first action to take'
     },
     {
-      name: 'Action 1 URL',
+      name: 'Action1URL',
       type: 'string',
-      title: 'Action_1_URL',
+      title: 'Action-1-URL',
       description: 'This is the URL of the first action to take'
     },
     {
-      name: 'Action 2 Title',
+      name: 'Action2Title',
       type: 'string',
-      title: 'Action_2_Title',
+      title: 'Action-2-Title',
       description: 'This is the title of the first action to take'
     },
     {
-      name: 'Action 2 URL',
+      name: 'Action2URL',
       type: 'string',
-      title: 'Action_2_URL',
+      title: 'Action-2-URL',
       description: 'This is the URL of the first action to take'
     },
     {
-      name: 'Action 1 Title',
+      name: 'Action3Title',
       type: 'string',
-      title: 'Action_1_Title',
+      title: 'Action-3-Title',
       description: 'This is the title of the first action to take'
     },
     {
-      name: 'Action 3 URL',
+      name: 'Action3URL',
       type: 'string',
-      title: 'Action_3_URL',
+      title: 'Action-3-URL',
       description: 'This is the URL of the first action to take'
     }
   ],
