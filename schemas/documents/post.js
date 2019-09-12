@@ -33,6 +33,11 @@ export default {
       title: 'Main image'
     },
     {
+      name: 'socialImage',
+      type: 'mainImage',
+      title: 'Social image'
+    },
+    {
       name: 'excerpt',
       type: 'excerptPortableText',
       title: 'Excerpt',
