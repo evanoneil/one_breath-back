@@ -31,6 +31,21 @@ export default {
       description: 'Publish an author and set a reference to them here.',
       title: 'Author',
       to: [{type: 'author'}]
+    },
+    {
+      name: 'home_header',
+      type: 'string',
+      title: 'Homepage Header'
+    },
+    {
+      name: 'newsroom_header',
+      type: 'string',
+      title: 'Newsroom Header'
+    },
+    {
+      name: 'about_header',
+      type: 'string',
+      title: 'About Header'
     }
   ]
 }
