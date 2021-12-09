@@ -10,6 +10,8 @@ import category from './documents/category'
 import post from './documents/post'
 import newsroom from './documents/newsroom'
 import siteSettings from './documents/siteSettings'
+import actionAlert from './documents/actionAlert'
+import majorProject from './documents/majorProject'
 
 // Object types
 import bodyPortableText from './objects/bodyPortableText'
@@ -38,7 +40,9 @@ export default createSchema({
     bodyPortableText,
     bioPortableText,
     youtube,
-    excerptPortableText
+    excerptPortableText,
+    actionAlert,
+    majorProject
 
     // When added to this list, object types can be used as
     // { type: 'typename' } in other document schemas
