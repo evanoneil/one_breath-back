@@ -38,6 +38,41 @@ export default {
       title: 'Homepage Header'
     },
     {
+      name: 'featured_title',
+      type: 'string',
+      title: 'Featured Section Title'
+    },    
+    {
+      name: 'featured_intro',
+      type: 'bodyPortableText',
+      title: 'Featured Section Intro'
+    },
+    {
+      name: 'search_title',
+      type: 'string',
+      title: 'Search Section Title'
+    },
+    {
+      name: 'search_intro',
+      type: 'string',
+      title: 'Search Section Intro'
+    },
+    {
+      name: 'newsletter_title',
+      type: 'string',
+      title: 'Newsletter Section Title'
+    },
+    {
+      name: 'newsletter_intro',
+      type: 'string',
+      title: 'Newsletter Section Intro'
+    },
+    {
+      name: 'bottom_header',
+      type: 'string',
+      title: 'Media Posts Section Header'
+    },
+    {
       name: 'newsroom_header',
       type: 'string',
       title: 'Newsroom Header'
